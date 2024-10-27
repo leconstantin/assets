@@ -1,0 +1,17 @@
+.backs {
+  /* background: skyblue !important; */
+  background: linear-gradient(
+    to top,
+    skyblue,
+    rgba(4, 30, 34, 0.858),
+    skyblue
+  ) !important;
+}
+.test {
+  background: linear-gradient(
+    to top,
+    rgba(135, 207, 235, 0.431),
+    white,
+    rgba(210, 42, 42, 0.281)
+  ) !important;
+}
